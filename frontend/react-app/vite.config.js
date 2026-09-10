@@ -1,6 +1,9 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
+  // Serve the parent `frontend` folder as static public files so we can reuse
+  // existing images like bg.png, warehouse.jpeg, relief.jpeg (no binary copy needed).
+  publicDir: '../',
   server: {
     port: 5173,
     proxy: {

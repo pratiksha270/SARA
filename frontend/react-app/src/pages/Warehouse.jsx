@@ -38,11 +38,19 @@ export default function Warehouse(){
 
   return (
     <div className="container portal-shell">
+      <div className="page-header">
+        <img src="/warehouse.jpeg" alt="warehouse" />
+        <div>
+          <h2 style={{margin:0,color:'var(--sara-white)'}}>Warehouse Portal</h2>
+          <div style={{color:'rgba(255,255,255,0.9)'}}>Manage warehouse stock and upload data.</div>
+        </div>
+      </div>
+
       <div className="card warehouse-card">
-        <h3>Warehouse Stock — Quick Add</h3>
+        <h3 style={{marginTop:0}}>Warehouse Stock — Quick Add</h3>
         <div className="form-row-3">
-          <div><label>Warehouse Name<input value={name} onChange={e=>setName(e.target.value)} /></label></div>
-          <div><label>City<input value={city} onChange={e=>setCity(e.target.value)} /></label></div>
+          <div><label>Warehouse Name<input value={name} onChange={e=>setName(e.target.value)} placeholder="e.g. Central Warehouse" /></label></div>
+          <div><label>City<input value={city} onChange={e=>setCity(e.target.value)} placeholder="City name" /></label></div>
           <div><label>Resources (Resource:Qty, Resource:Qty)<input value={pairs} onChange={e=>setPairs(e.target.value)} placeholder="Food:300, Water:200" /></label></div>
         </div>
         <div className="btn-row"><button onClick={addQuick} className="primary">Add to Draft</button><button onClick={()=>setDraft([])} className="muted">Clear Draft</button></div>

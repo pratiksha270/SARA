@@ -4,6 +4,7 @@ import Home from './pages/Home'
 import Warehouse from './pages/Warehouse'
 import Relief from './pages/Relief'
 import GovLogin from './pages/GovLogin'
+import GovernmentDashboard from './pages/GovernmentDashboard'
 
 export default function App(){
   return (
@@ -13,6 +14,7 @@ export default function App(){
         <Route path="/warehouse" element={<Warehouse/>} />
         <Route path="/relief" element={<Relief/>} />
         <Route path="/gov-login" element={<GovLogin/>} />
+        <Route path="/dashboard" element={<GovernmentDashboard/>} />
       </Routes>
     </div>
   )

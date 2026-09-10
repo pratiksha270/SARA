@@ -44,11 +44,19 @@ export default function Relief(){
 
   return (
     <div className="container portal-shell">
+      <div className="page-header">
+        <img src="/relief.jpeg" alt="relief" />
+        <div>
+          <h2 style={{margin:0,color:'var(--sara-white)'}}>Relief Center Portal</h2>
+          <div style={{color:'rgba(255,255,255,0.9)'}}>Add affected areas, needs, and urgency.</div>
+        </div>
+      </div>
+
       <div className="card span-7">
-        <h3>Relief Needs (Form / CSV / JSON)</h3>
-        <div className="grid">
-          <label>Name (area / center)<input value={name} onChange={e=>setName(e.target.value)} /></label>
-          <label>City<input value={city} onChange={e=>setCity(e.target.value)} /></label>
+        <h3 style={{marginTop:0}}>Relief Needs (Form / CSV / JSON)</h3>
+        <div className="grid" style={{display:'grid',gridTemplateColumns:'1fr 1fr',gap:12}}>
+          <label>Name (area / center)<input value={name} onChange={e=>setName(e.target.value)} placeholder="Area name" /></label>
+          <label>City<input value={city} onChange={e=>setCity(e.target.value)} placeholder="City" /></label>
           <label>People affected<input type="number" value={people} onChange={e=>setPeople(Number(e.target.value))} /></label>
           <label>Urgency (0–100)<input type="number" value={urg} onChange={e=>setUrg(Number(e.target.value))} /></label>
         </div>
