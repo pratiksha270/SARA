@@ -1,0 +1,4 @@
+Center Name,City,Injured,ShelterCapacity,NeedResource1,NeedQty1,NeedResource2,NeedQty2,NeedResource3,NeedQty3,Urgency
+Juhu Relief Center,Mumbai,40,120,Food,100,Water,50,, ,85
+Dadar Relief Center,Mumbai,25,80,Medicine,70,Blankets,40,, ,80
+Thane Relief Camp,Thane,60,100,Food,90,Water,60,Medicine,30,90

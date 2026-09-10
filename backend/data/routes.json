@@ -1,0 +1,22 @@
+[
+  {
+    "from": "Mumbai",
+    "to": "Navi Mumbai",
+    "distance": 30
+  },
+  {
+    "from": "Mumbai",
+    "to": "Pune",
+    "distance": 148
+  },
+  {
+    "from": "Mumbai",
+    "to": "Surat",
+    "distance": 280
+  },
+  {
+    "from": "Mumbai",
+    "to": "Nashik",
+    "distance": 167
+  }
+]

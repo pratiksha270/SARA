@@ -1,0 +1,38 @@
+[
+    { "name": "Central Warehouse", "city": "Mumbai", "resource": "Food", "quantity": 600 },
+    { "name": "Central Warehouse", "city": "Mumbai", "resource": "Water", "quantity": 300 },
+    { "name": "Central Warehouse", "city": "Mumbai", "resource": "Medicine", "quantity": 150 },
+  
+    { "name": "East Zone Depot", "city": "Kolkata", "resource": "Food", "quantity": 400 },
+    { "name": "East Zone Depot", "city": "Kolkata", "resource": "Tents", "quantity": 120 },
+    { "name": "East Zone Depot", "city": "Kolkata", "resource": "Blankets", "quantity": 250 },
+  
+    { "name": "South Relief Hub", "city": "Chennai", "resource": "Food", "quantity": 350 },
+    { "name": "South Relief Hub", "city": "Chennai", "resource": "Water", "quantity": 500 },
+    { "name": "South Relief Hub", "city": "Chennai", "resource": "SanitaryKits", "quantity": 200 },
+  
+    { "name": "North Stockyard", "city": "Delhi", "resource": "Food", "quantity": 700 },
+    { "name": "North Stockyard", "city": "Delhi", "resource": "Blankets", "quantity": 300 },
+    { "name": "North Stockyard", "city": "Delhi", "resource": "Medicine", "quantity": 180 },
+  
+    { "name": "West Logistics Center", "city": "Ahmedabad", "resource": "Food", "quantity": 500 },
+    { "name": "West Logistics Center", "city": "Ahmedabad", "resource": "Water", "quantity": 260 },
+    { "name": "West Logistics Center", "city": "Ahmedabad", "resource": "Clothes", "quantity": 400 },
+  
+    { "name": "Metro Supply Point", "city": "Bengaluru", "resource": "Food", "quantity": 320 },
+    { "name": "Metro Supply Point", "city": "Bengaluru", "resource": "Water", "quantity": 200 },
+    { "name": "Metro Supply Point", "city": "Bengaluru", "resource": "BabyFood", "quantity": 90 },
+  
+    { "name": "Harbor Warehouse", "city": "Mumbai", "resource": "Tents", "quantity": 140 },
+    { "name": "Harbor Warehouse", "city": "Mumbai", "resource": "Water", "quantity": 300 },
+    { "name": "Harbor Warehouse", "city": "Mumbai", "resource": "Medicine", "quantity": 120 },
+  
+    { "name": "Riverbank Relief Depot", "city": "Varanasi", "resource": "Food", "quantity": 250 },
+    { "name": "Riverbank Relief Depot", "city": "Varanasi", "resource": "Water", "quantity": 180 },
+    { "name": "Riverbank Relief Depot", "city": "Varanasi", "resource": "Clothes", "quantity": 150 },
+  
+    { "name": "Hilltop Storage", "city": "Dehradun", "resource": "Food", "quantity": 200 },
+    { "name": "Hilltop Storage", "city": "Dehradun", "resource": "Blankets", "quantity": 180 },
+    { "name": "Hilltop Storage", "city": "Dehradun", "resource": "Medicine", "quantity": 80 }
+  ]
+  

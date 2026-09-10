@@ -1,0 +1,166 @@
+{
+  "warehouses": [
+    {
+      "name": "Central Warehouse",
+      "city": "Mumbai",
+      "resources": [
+        {
+          "resource": "Food",
+          "quantity": 600
+        },
+        {
+          "resource": "Water",
+          "quantity": 300
+        },
+        {
+          "resource": "Medicine",
+          "quantity": 150
+        }
+      ]
+    },
+    {
+      "name": "East Zone Depot",
+      "city": "Kolkata",
+      "resources": [
+        {
+          "resource": "Food",
+          "quantity": 400
+        },
+        {
+          "resource": "Tents",
+          "quantity": 120
+        },
+        {
+          "resource": "Blankets",
+          "quantity": 250
+        }
+      ]
+    },
+    {
+      "name": "South Relief Hub",
+      "city": "Chennai",
+      "resources": [
+        {
+          "resource": "Food",
+          "quantity": 350
+        },
+        {
+          "resource": "Water",
+          "quantity": 500
+        },
+        {
+          "resource": "SanitaryKits",
+          "quantity": 200
+        }
+      ]
+    },
+    {
+      "name": "North Stockyard",
+      "city": "Delhi",
+      "resources": [
+        {
+          "resource": "Food",
+          "quantity": 700
+        },
+        {
+          "resource": "Blankets",
+          "quantity": 300
+        },
+        {
+          "resource": "Medicine",
+          "quantity": 180
+        }
+      ]
+    },
+    {
+      "name": "West Logistics Center",
+      "city": "Ahmedabad",
+      "resources": [
+        {
+          "resource": "Food",
+          "quantity": 500
+        },
+        {
+          "resource": "Water",
+          "quantity": 260
+        },
+        {
+          "resource": "Clothes",
+          "quantity": 400
+        }
+      ]
+    },
+    {
+      "name": "Metro Supply Point",
+      "city": "Bengaluru",
+      "resources": [
+        {
+          "resource": "Food",
+          "quantity": 320
+        },
+        {
+          "resource": "Water",
+          "quantity": 200
+        },
+        {
+          "resource": "BabyFood",
+          "quantity": 90
+        }
+      ]
+    },
+    {
+      "name": "Harbor Warehouse",
+      "city": "Mumbai",
+      "resources": [
+        {
+          "resource": "Tents",
+          "quantity": 140
+        },
+        {
+          "resource": "Water",
+          "quantity": 300
+        },
+        {
+          "resource": "Medicine",
+          "quantity": 120
+        }
+      ]
+    },
+    {
+      "name": "Riverbank Relief Depot",
+      "city": "Varanasi",
+      "resources": [
+        {
+          "resource": "Food",
+          "quantity": 250
+        },
+        {
+          "resource": "Water",
+          "quantity": 180
+        },
+        {
+          "resource": "Clothes",
+          "quantity": 150
+        }
+      ]
+    },
+    {
+      "name": "Hilltop Storage",
+      "city": "Dehradun",
+      "resources": [
+        {
+          "resource": "Food",
+          "quantity": 200
+        },
+        {
+          "resource": "Blankets",
+          "quantity": 180
+        },
+        {
+          "resource": "Medicine",
+          "quantity": 80
+        }
+      ]
+    }
+  ]
+}

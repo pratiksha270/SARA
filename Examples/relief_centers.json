@@ -1,0 +1,40 @@
+[
+    { "name": "Riverside Camp", "city": "Mumbai", "people": 180, "urgency": "High", "resource": "Food", "quantity": 300 },
+    { "name": "Riverside Camp", "city": "Mumbai", "people": 180, "urgency": "High", "resource": "Water", "quantity": 400 },
+    { "name": "Riverside Camp", "city": "Mumbai", "people": 180, "urgency": "High", "resource": "Medicine", "quantity": 120 },
+  
+    { "name": "North Grounds Shelter", "city": "Delhi", "people": 220, "urgency": "Medium", "resource": "Food", "quantity": 280 },
+    { "name": "North Grounds Shelter", "city": "Delhi", "people": 220, "urgency": "Medium", "resource": "Blankets", "quantity": 180 },
+    { "name": "North Grounds Shelter", "city": "Delhi", "people": 220, "urgency": "Medium", "resource": "SanitaryKits", "quantity": 150 },
+  
+    { "name": "Eastbank Relief Zone", "city": "Kolkata", "people": 150, "urgency": "High", "resource": "Food", "quantity": 200 },
+    { "name": "Eastbank Relief Zone", "city": "Kolkata", "people": 150, "urgency": "High", "resource": "Water", "quantity": 250 },
+    { "name": "Eastbank Relief Zone", "city": "Kolkata", "people": 150, "urgency": "High", "resource": "Tents", "quantity": 80 },
+  
+    { "name": "Lakeside Camp", "city": "Chennai", "people": 200, "urgency": "Low", "resource": "Food", "quantity": 180 },
+    { "name": "Lakeside Camp", "city": "Chennai", "people": 200, "urgency": "Low", "resource": "Clothes", "quantity": 140 },
+  
+    { "name": "Community Shelter #4", "city": "Bengaluru", "people": 170, "urgency": "High", "resource": "Water", "quantity": 260 },
+    { "name": "Community Shelter #4", "city": "Bengaluru", "people": 170, "urgency": "High", "resource": "Food", "quantity": 220 },
+    { "name": "Community Shelter #4", "city": "Bengaluru", "people": 170, "urgency": "High", "resource": "Blankets", "quantity": 100 },
+  
+    { "name": "Hill Base Relief Point", "city": "Dehradun", "people": 120, "urgency": "Medium", "resource": "Food", "quantity": 150 },
+    { "name": "Hill Base Relief Point", "city": "Dehradun", "people": 120, "urgency": "Medium", "resource": "Blankets", "quantity": 200 },
+    { "name": "Hill Base Relief Point", "city": "Dehradun", "people": 120, "urgency": "Medium", "resource": "Medicine", "quantity": 60 },
+  
+    { "name": "Riverbend Camp", "city": "Varanasi", "people": 140, "urgency": "High", "resource": "Food", "quantity": 210 },
+    { "name": "Riverbend Camp", "city": "Varanasi", "people": 140, "urgency": "High", "resource": "Tents", "quantity": 90 },
+    { "name": "Riverbend Camp", "city": "Varanasi", "people": 140, "urgency": "High", "resource": "Water", "quantity": 200 },
+  
+    { "name": "Coastal Aid Center", "city": "Kochi", "people": 160, "urgency": "Medium", "resource": "Food", "quantity": 190 },
+    { "name": "Coastal Aid Center", "city": "Kochi", "people": 160, "urgency": "Medium", "resource": "Water", "quantity": 220 },
+    { "name": "Coastal Aid Center", "city": "Kochi", "people": 160, "urgency": "Medium", "resource": "Medicine", "quantity": 70 },
+  
+    { "name": "Old City Indoor Hall", "city": "Hyderabad", "people": 130, "urgency": "Low", "resource": "Food", "quantity": 150 },
+    { "name": "Old City Indoor Hall", "city": "Hyderabad", "people": 130, "urgency": "Low", "resource": "Clothes", "quantity": 120 },
+  
+    { "name": "Red Cross Temporary Shelter", "city": "Pune", "people": 190, "urgency": "High", "resource": "Water", "quantity": 300 },
+    { "name": "Red Cross Temporary Shelter", "city": "Pune", "people": 190, "urgency": "High", "resource": "Food", "quantity": 260 },
+    { "name": "Red Cross Temporary Shelter", "city": "Pune", "people": 190, "urgency": "High", "resource": "SanitaryKits", "quantity": 140 }
+  ]
+  

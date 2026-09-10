@@ -1,0 +1,36 @@
+Warehouse Name,City,Resource,Quantity
+Central Warehouse,Mumbai,Food,600
+Central Warehouse,Mumbai,Water,300
+Central Warehouse,Mumbai,Medicine,150
+
+East Zone Depot,Kolkata,Food,400
+East Zone Depot,Kolkata,Tents,120
+East Zone Depot,Kolkata,Blankets,250
+
+South Relief Hub,Chennai,Food,350
+South Relief Hub,Chennai,Water,500
+South Relief Hub,Chennai,SanitaryKits,200
+
+North Stockyard,Delhi,Food,700
+North Stockyard,Delhi,Blankets,300
+North Stockyard,Delhi,Medicine,180
+
+West Logistics Center,Ahmedabad,Food,500
+West Logistics Center,Ahmedabad,Water,260
+West Logistics Center,Ahmedabad,Clothes,400
+
+Metro Supply Point,Bengaluru,Food,320
+Metro Supply Point,Bengaluru,Water,200
+Metro Supply Point,Bengaluru,BabyFood,90
+
+Harbor Warehouse,Mumbai,Tents,140
+Harbor Warehouse,Mumbai,Water,300
+Harbor Warehouse,Mumbai,Medicine,120
+
+Riverbank Relief Depot,Varanasi,Food,250
+Riverbank Relief Depot,Varanasi,Water,180
+Riverbank Relief Depot,Varanasi,Clothes,150
+
+Hilltop Storage,Dehradun,Food,200
+Hilltop Storage,Dehradun,Blankets,180
+Hilltop Storage,Dehradun,Medicine,80

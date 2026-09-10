@@ -1,0 +1,38 @@
+ReliefCenter,City,People,Urgency,Resource,Quantity
+Riverside Camp,Mumbai,180,High,Food,300
+Riverside Camp,Mumbai,180,High,Water,400
+Riverside Camp,Mumbai,180,High,Medicine,120
+
+North Grounds Shelter,Delhi,220,Medium,Food,280
+North Grounds Shelter,Delhi,220,Medium,Blankets,180
+North Grounds Shelter,Delhi,220,Medium,SanitaryKits,150
+
+Eastbank Relief Zone,Kolkata,150,High,Food,200
+Eastbank Relief Zone,Kolkata,150,High,Water,250
+Eastbank Relief Zone,Kolkata,150,High,Tents,80
+
+Lakeside Camp,Chennai,200,Low,Food,180
+Lakeside Camp,Chennai,200,Low,Clothes,140
+
+Community Shelter #4,Bengaluru,170,High,Water,260
+Community Shelter #4,Bengaluru,170,High,Food,220
+Community Shelter #4,Bengaluru,170,High,Blankets,100
+
+Hill Base Relief Point,Dehradun,120,Medium,Food,150
+Hill Base Relief Point,Dehradun,120,Medium,Blankets,200
+Hill Base Relief Point,Dehradun,120,Medium,Medicine,60
+
+Riverbend Camp,Varanasi,140,High,Food,210
+Riverbend Camp,Varanasi,140,High,Tents,90
+Riverbend Camp,Varanasi,140,High,Water,200
+
+Coastal Aid Center,Kochi,160,Medium,Food,190
+Coastal Aid Center,Kochi,160,Medium,Water,220
+Coastal Aid Center,Kochi,160,Medium,Medicine,70
+
+Old City Indoor Hall,Hyderabad,130,Low,Food,150
+Old City Indoor Hall,Hyderabad,130,Low,Clothes,120
+
+Red Cross Temporary Shelter,Pune,190,High,Water,300
+Red Cross Temporary Shelter,Pune,190,High,Food,260
+Red Cross Temporary Shelter,Pune,190,High,SanitaryKits,140

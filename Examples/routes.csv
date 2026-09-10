@@ -1,0 +1,16 @@
+From,To,DistanceKm
+Mumbai,Pune,148
+Mumbai,Ahmedabad,524
+Mumbai,Delhi,1400
+Pune,Bengaluru,840
+Pune,Hyderabad,560
+Ahmedabad,Delhi,950
+Delhi,Dehradun,250
+Delhi,Varanasi,820
+Delhi,Kolkata,1500
+Kolkata,Varanasi,680
+Chennai,Bengaluru,350
+Chennai,Hyderabad,630
+Bengaluru,Hyderabad,570
+Kochi,Chennai,690
+Hyderabad,Kolkata,1500

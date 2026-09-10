@@ -1,0 +1,196 @@
+{
+  "areas": [
+    {
+      "name": "Riverside Camp",
+      "city": "Mumbai",
+      "people": 0,
+      "urgency": 0,
+      "resources": [
+        {
+          "resource": "Food",
+          "quantity": 300
+        },
+        {
+          "resource": "Water",
+          "quantity": 400
+        },
+        {
+          "resource": "Medicine",
+          "quantity": 120
+        }
+      ]
+    },
+    {
+      "name": "North Grounds Shelter",
+      "city": "Delhi",
+      "people": 0,
+      "urgency": 0,
+      "resources": [
+        {
+          "resource": "Food",
+          "quantity": 280
+        },
+        {
+          "resource": "Blankets",
+          "quantity": 180
+        },
+        {
+          "resource": "SanitaryKits",
+          "quantity": 150
+        }
+      ]
+    },
+    {
+      "name": "Eastbank Relief Zone",
+      "city": "Kolkata",
+      "people": 0,
+      "urgency": 0,
+      "resources": [
+        {
+          "resource": "Food",
+          "quantity": 200
+        },
+        {
+          "resource": "Water",
+          "quantity": 250
+        },
+        {
+          "resource": "Tents",
+          "quantity": 80
+        }
+      ]
+    },
+    {
+      "name": "Lakeside Camp",
+      "city": "Chennai",
+      "people": 0,
+      "urgency": 0,
+      "resources": [
+        {
+          "resource": "Food",
+          "quantity": 180
+        },
+        {
+          "resource": "Clothes",
+          "quantity": 140
+        }
+      ]
+    },
+    {
+      "name": "Community Shelter #4",
+      "city": "Bengaluru",
+      "people": 0,
+      "urgency": 0,
+      "resources": [
+        {
+          "resource": "Water",
+          "quantity": 260
+        },
+        {
+          "resource": "Food",
+          "quantity": 220
+        },
+        {
+          "resource": "Blankets",
+          "quantity": 100
+        }
+      ]
+    },
+    {
+      "name": "Hill Base Relief Point",
+      "city": "Dehradun",
+      "people": 0,
+      "urgency": 0,
+      "resources": [
+        {
+          "resource": "Food",
+          "quantity": 150
+        },
+        {
+          "resource": "Blankets",
+          "quantity": 200
+        },
+        {
+          "resource": "Medicine",
+          "quantity": 60
+        }
+      ]
+    },
+    {
+      "name": "Riverbend Camp",
+      "city": "Varanasi",
+      "people": 0,
+      "urgency": 0,
+      "resources": [
+        {
+          "resource": "Food",
+          "quantity": 210
+        },
+        {
+          "resource": "Tents",
+          "quantity": 90
+        },
+        {
+          "resource": "Water",
+          "quantity": 200
+        }
+      ]
+    },
+    {
+      "name": "Coastal Aid Center",
+      "city": "Kochi",
+      "people": 0,
+      "urgency": 0,
+      "resources": [
+        {
+          "resource": "Food",
+          "quantity": 190
+        },
+        {
+          "resource": "Water",
+          "quantity": 220
+        },
+        {
+          "resource": "Medicine",
+          "quantity": 70
+        }
+      ]
+    },
+    {
+      "name": "Old City Indoor Hall",
+      "city": "Hyderabad",
+      "people": 0,
+      "urgency": 0,
+      "resources": [
+        {
+          "resource": "Food",
+          "quantity": 150
+        },
+        {
+          "resource": "Clothes",
+          "quantity": 120
+        }
+      ]
+    },
+    {
+      "name": "Red Cross Temporary Shelter",
+      "city": "Pune",
+      "people": 0,
+      "urgency": 0,
+      "resources": [
+        {
+          "resource": "Water",
+          "quantity": 300
+        },
+        {
+          "resource": "Food",
+          "quantity": 260
+        },
+        {
+          "resource": "SanitaryKits",
+          "quantity": 140
+        }
+      ]
+    }
+  ]
+}
